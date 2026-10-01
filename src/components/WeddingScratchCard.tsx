@@ -66,7 +66,7 @@ export const WeddingScratchCard: React.FC = () => {
     ctx.font = '700 13px "Cinzel", serif';
     ctx.textAlign = 'center';
     ctx.textBaseline = 'middle';
-    ctx.fillText('✦ ROYAL WEDDING REVEAL ✦', w / 2, h / 2 - 28);
+    ctx.fillText('✦             ✦', w / 2, h / 2 - 28);
 
     ctx.fillStyle = '#200307';
     ctx.font = '800 16px "Cinzel", serif';
